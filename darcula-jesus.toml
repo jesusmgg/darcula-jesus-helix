@@ -1,0 +1,8 @@
+"diagnostic.warning" = { underline = { color = "dimorange", style = "curl"} }
+"diagnostic.error" = { underline = { color = "dimred", style = "curl"} }
+"diagnostic.info" = { underline = { color = "dimgrey", style = "dashed"} }
+"diagnostic.hint" = { underline = { color = "dimgrey", style = "dashed"} }
+
+dimred = "#642e18"
+dimorange = "#ae662a"
+dimgrey = "#777777"
