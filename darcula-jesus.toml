@@ -1,3 +1,5 @@
+inherits = "darcula-solid"
+
 "diagnostic.warning" = { underline = { color = "dimorange", style = "curl"} }
 "diagnostic.error" = { underline = { color = "dimred", style = "curl"} }
 "diagnostic.info" = { underline = { color = "dimgrey", style = "dashed"} }
