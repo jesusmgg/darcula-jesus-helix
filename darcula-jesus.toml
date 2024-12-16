@@ -16,3 +16,12 @@ dimred = "#642e18"
 dimorange = "#ae662a"
 dimgrey = "#777777"
 lspbg01 = "#404040"
+
+
+## Examples
+# NOTE(Jesus): Lorem ipsum dolor sit amet.
+# INFO(Jesus): Lorem ipsum dolor sit amet.
+# WARNING(Jesus): Lorem ipsum dolor sit amet.
+# WARN(Jesus): Lorem ipsum dolor sit amet.
+# DEBUG(Jesus): Lorem ipsum dolor sit amet.
+# FIXME(Jesus): Lorem ipsum dolor sit amet.
