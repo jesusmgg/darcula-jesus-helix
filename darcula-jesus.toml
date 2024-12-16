@@ -5,8 +5,14 @@ inherits = "darcula-solid"
 "diagnostic.info" = { underline = { color = "dimgrey", style = "dashed"} }
 "diagnostic.hint" = { underline = { color = "dimgrey", style = "dashed"} }
 
+"info"= { fg = "grey05", bg = "lspbg01" }
+"hint"= { fg = "grey05", bg = "lspbg01" }
+"debug"= { fg = "grey05", bg = "lspbg01" }
+"warning" = { fg = "orange", bg = "lspbg01" }
+"error"= { fg = "grey04", bg = "dimred" }
+
 [palette]
 dimred = "#642e18"
 dimorange = "#ae662a"
 dimgrey = "#777777"
-
+lspbg01 = "#404040"
