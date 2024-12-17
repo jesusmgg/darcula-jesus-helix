@@ -5,11 +5,11 @@ inherits = "darcula-solid"
 "diagnostic.info" = { underline = { color = "dimgrey", style = "dashed"} }
 "diagnostic.hint" = { underline = { color = "dimgrey", style = "dashed"} }
 
-"info"= { fg = "grey05", bg = "lspbg01" }
-"hint"= { fg = "grey05", bg = "lspbg01" }
-"debug"= { fg = "grey05", bg = "lspbg01" }
-"warning" = { fg = "orange", bg = "lspbg01" }
-"error"= { fg = "grey04", bg = "dimred" }
+"info"= { fg = "grey05", bg = "lspbg01", modifiers = ["italic"]}
+"hint"= { fg = "grey05", bg = "lspbg01", modifiers = ["italic"]}
+"debug"= { fg = "grey05", bg = "lspbg01", modifiers = ["italic"]}
+"warning" = { fg = "orange", bg = "lspbg01", modifiers = ["italic"]}
+"error"= { fg = "grey04", bg = "dimred", modifiers = ["bold" ]}
 
 [palette]
 dimred = "#642e18"
@@ -18,7 +18,7 @@ dimgrey = "#777777"
 lspbg01 = "#404040"
 
 
-## Examples
+## ●Examples●
 # NOTE(Jesus): Lorem ipsum dolor sit amet.
 # INFO(Jesus): Lorem ipsum dolor sit amet.
 # WARNING(Jesus): Lorem ipsum dolor sit amet.
