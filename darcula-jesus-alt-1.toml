@@ -1,0 +1,9 @@
+# Alternative colors 1. May be used to diferentiate projects in different editors.
+ 
+inherits = "darcula-jesus"
+
+"ui.background" = { bg = "bgColor" }
+"ui.gutter" = { bg = "bgColor" }
+
+[palette]
+bgColor = "#1f1f28"
