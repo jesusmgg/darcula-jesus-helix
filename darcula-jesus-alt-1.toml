@@ -4,6 +4,8 @@ inherits = "darcula-jesus"
 
 "ui.background" = { bg = "bgColor" }
 "ui.gutter" = { bg = "bgColor" }
+"ui.linenr" = { fg = "grey03", bg = "bgColor" }
+"ui.linenr.selected" = { fg = "grey04", bg = "bgColor", modifiers = ["bold"] }
 
 [palette]
 bgColor = "#1f1f28"
